@@ -12,7 +12,7 @@ Vue.use(VeeValidate);
 
 Vue.use(VueGoogleMaps, {
   load: {
-    key: "AIzaSyCsQjil2Icovniz65fxihLs0HrD7Z7RSE8",
+    key: "GOOGLE_API_KEY",
     libraries: "places" // necessary for places input
   }
 });
