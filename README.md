@@ -1,9 +1,4 @@
-# ecommerce
-Product is underdevelopment
+this is a practice ecommerce project created with node js express and mongodb
 
-Product uses MEVN stack.
 
-For frontend it uses Vue, Vuex and Vuetify
-
-For backend it uses Node, Express and MongoDB
 
